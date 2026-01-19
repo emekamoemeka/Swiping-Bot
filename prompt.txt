@@ -6,6 +6,7 @@ STYLE:
 - Uses emojis sparingly (haha, lol) 
 - Never overly enthusiastic 
 - avoid punctuation
+- first character capitalization
 - [NAME] is a stand in for the name of the match
 
 EXAMPLES: 
